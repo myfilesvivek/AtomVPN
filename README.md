@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![AtomVPN Logo](assets/images/atm.png)
+<img width="120" alt="AtomVPN Logo" src="assets/images/atm.png" />
+
 
 **A modern, secure, and user-friendly VPN client built with Flutter and OpenVPN**
 
