@@ -70,7 +70,7 @@
 ## 🚀 Screenshots
 
 <div align="center">
-<img width="1290" height="2796" alt="2" src="https://github.com/user-attachments/assets/bc78b703-78b9-4b9b-83c3-df8f20457011" />
+<img width="250" alt="2" src="https://github.com/user-attachments/assets/bc78b703-78b9-4b9b-83c3-df8f20457011" />
 
 
 
