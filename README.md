@@ -71,10 +71,13 @@
 ## 🚀 Screenshots
 
 <div align="center">
+<img width="250" alt="2" src="https://github.com/user-attachments/assets/71318dcf-3a47-4735-b042-ae87f00c12bb" />
 <img width="250" alt="2" src="https://github.com/user-attachments/assets/bc78b703-78b9-4b9b-83c3-df8f20457011" />
 <img width="250"  alt="2" src="https://github.com/user-attachments/assets/9c5bb124-0d55-4343-bedb-5ce07b1637e3" />
+<img width="250"  alt="2" src="https://github.com/user-attachments/assets/420bdc9c-fdea-471f-9188-7f55c2945fc5" />
 <img width="250"  alt="2" src="https://github.com/user-attachments/assets/95dd575d-e98e-479e-abeb-bf549dc98d1e" />
 <img width="250"  alt="2" src="https://github.com/user-attachments/assets/232d5246-3beb-4706-8dfe-9422b2cef670" />
+
 
 
 
