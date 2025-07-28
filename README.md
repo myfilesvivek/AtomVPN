@@ -70,17 +70,9 @@
 ## 🚀 Screenshots
 
 <div align="center">
+<img width="1290" height="2796" alt="2" src="https://github.com/user-attachments/assets/bc78b703-78b9-4b9b-83c3-df8f20457011" />
 
-### Main Interface
-![Main Screen](assets/images/connected_button.png)
 
-### Connection States
-| Connected | Connecting | Disconnected |
-|-----------|------------|--------------|
-| ![Connected](assets/images/connected_button.png) | ![Connecting](assets/images/connecting_button.png) | ![Disconnected](assets/images/disconnected_button.png) |
-
-### Network Test & Server Selection
-![Network Test](assets/images/img_1.png) ![Server Selection](assets/images/img_2.png)
 
 </div>
 
