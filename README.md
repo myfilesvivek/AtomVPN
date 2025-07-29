@@ -127,64 +127,6 @@
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/atomvpn.git
-cd atomvpn
-```
-
-### 2. Install Dependencies
-```bash
-flutter pub get
-```
-
-### 3. Configure VPN Servers
-Add your VPN server configurations to `assets/vpn/` directory:
-```
-assets/vpn/
-├── japan.ovpn
-├── thailand.ovpn
-└── [other_server_configs].ovpn
-```
-
-### 4. Update Package Name (Optional)
-```bash
-flutter pub run change_app_package_name:main com.yourcompany.atomvpn
-```
-
-### 5. Build the Application
-```bash
-# Debug build
-flutter build apk --debug
-
-# Release build
-flutter build apk --release
-```
-
----
-
-## 🔧 Configuration
-
-### VPN Server Configuration
-1. Place your `.ovpn` files in `assets/vpn/` directory
-2. Update server details in `lib/models/vpn_config.dart`
-3. Configure authentication credentials if required
-
-### Firebase Setup (Optional)
-1. Create a Firebase project
-2. Add `google-services.json` to `android/app/`
-3. Configure Firebase Messaging for notifications
-
-### Permissions
-The app requires the following permissions:
-- **INTERNET** - For VPN connections
-- **ACCESS_NETWORK_STATE** - Network status monitoring
-- **FOREGROUND_SERVICE** - Background VPN service
-- **RECEIVE_BOOT_COMPLETED** - Auto-start capability
-
----
 
 ## 📖 Usage
 
@@ -276,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the AtomVPN Team**
+**Made with ❤️ by Vivek Kumar**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myfilesvivek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vvk27)
