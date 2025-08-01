@@ -61,7 +61,7 @@ class VpnServerListItemWidget extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(vpnModel.countryLong, style: theme.textTheme.titleSmall),
-                  SizedBox(height: 4.h),
+                  SizedBox(height: 5.h),
                   SizedBox(
                     width: double.maxFinite,
                     child: Row(
